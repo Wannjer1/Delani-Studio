@@ -17,7 +17,7 @@
   </head>
   <body>
     <!-- hero section -->
-    <section class="section-1 text-light text-center">
+    <section class="section-1 text-white text-center">
       <div class="container-fluid lead" id="hero">
         <img src="./images/logo.png" />
         <h1 class="line-height-2 rem">WELCOME<br />TO DELANI STUDIO</h1>
@@ -43,7 +43,7 @@
     </section>
 
     <!-- services section -->
-    <section class="section-3 text-center text-light lead">
+    <section class="section-3 text-center text-white lead">
       <div class="container-fluid p-5">
         <h2 class="mt-3 h2">SERVICES</h2>
         <p class="mt-3">
@@ -87,31 +87,43 @@
         <form>
           <div class="form-row">
             <div class="form-group col-md-6">
-              <label for="inputEmail4">Email</label>
+              <!-- <label for="inputEmail4">Email</label> -->
               <input
                 type="email"
-                class="form-control"
+                class="form-control bg-transparent text-light"
                 id="inputEmail4"
-                placeholder="Email"
+                placeholder="Name..."
               />
             </div>
             <div class="form-group col-md-6">
-              <label for="inputPassword4">Password</label>
+              <!-- <label for="inputPassword4">Password</label> -->
               <input
                 type="password"
-                class="form-control"
+                class="form-control bg-transparent text-white"
                 id="inputPassword4"
-                placeholder="Password"
+                placeholder="Email..."
               />
             </div>
           </div>
           <div class="form-group">
-            <label for="exampleFormControlTextarea1">Example textarea</label>
+            <!-- <label for="exampleFormControlTextarea1">Example textarea</label> -->
             <textarea
-              class="form-control"
+              class="form-control bg-transparent"
               id="exampleFormControlTextarea1"
               rows="3"
+              placeholder="Your message here..."
             ></textarea>
+          </div>
+
+          <div class="submit-btn d-flex justify-content-center">
+            <button
+              type="submit"
+              name="subscribe"
+              id="submit-btn"
+              class="bg-transparent text-light border border-light px-5 py-2 position-relative"
+            >
+              Send
+            </button>
           </div>
         </form>
       </div>
