@@ -1,5 +1,7 @@
 # Delani Studio
 
+This is a project that seeks to test out my understanding of bootstrap and Jquery. It is part of my third assessment test while at Moringa Prep course.
+
 ### Author: Ann Wanjeri
 
 ## PROJECT SET-UP
@@ -16,7 +18,7 @@ Requirements
 
 ## LINK TO PROJECT
 
-[Check out my portfolio](https://wannjer1.github.io/PortfolioLandingPage/ "My Akan Name")
+[Check out Delani studio](https://wannjer1.github.io/PortfolioLandingPage/ "Delani")
 
 ## TECHNOLOGY USED
 
@@ -25,6 +27,19 @@ Requirements
 - JAVASCRIPT to make the form responsive
 - J-Querry
 - FontAwesome- used to source out icons
+
+## Behaviour Driven Development
+
+1. Dislays landing page
+2. Interactive what we do section
+   - User clicks card image to display service description.
+3. Hover effect for portfolio section.
+   - User moves mouse over portfolio cards to display project name
+4. Alert message on contact form submission
+   INPUT: user enters name
+   INPUT: user enters email.
+   INPUT: user types the message
+   OUTPUT: alert success message on details submission.
 
 ## LICENSE
 
