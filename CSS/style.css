@@ -12,6 +12,11 @@
   height: 100%;
 }
 
+/* what we do section */
+.whatsection {
+  height: 30vh;
+}
+
 /* services section */
 .section-3 {
   width: 100%;

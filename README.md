@@ -1,4 +1,4 @@
-# Akan Name Generator
+# Delani Studio
 
 ### Author: Ann Wanjeri
 
