@@ -18,7 +18,7 @@ Requirements
 
 ## LINK TO PROJECT
 
-[Check out Delani studio](https://wannjer1.github.io/PortfolioLandingPage/ "Delani")
+[Check out Delani studio](https://wannjer1.github.io/Delani-Studio/ "Delani")
 
 ## TECHNOLOGY USED
 
